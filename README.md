@@ -3,6 +3,7 @@
 This is the code written in my [video tutorial](https://www.youtube.com/watch?v=k1aeg5lAzVk "Watch the tutorial on YouTube") on using NPM in the browser without the need for additional task runners like Gulp or Grunt. Its only dependencies are Browserify, Watchify, and NPM itself.
 
 [![Watch the tutorial on YouTube](npm-no-task.jpg)](https://www.youtube.com/watch?v=k1aeg5lAzVk)
+
 [Watch the tutorial on YouTube](https://www.youtube.com/watch?v=k1aeg5lAzVk "Watch the tutorial on YouTube")
 
 To try it out:
