@@ -1,0 +1,19 @@
+{
+  "name": "npm-no-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify index.js -o bundle.js",
+    "watch": "watchify index.js -o bundle.js -d"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "watchify": "^3.7.0"
+  },
+  "dependencies": {
+    "uniq": "^1.0.1"
+  }
+}
