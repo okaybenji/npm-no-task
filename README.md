@@ -12,4 +12,4 @@ To try it out:
 2. Navigate to the repo directory and run `npm install` from the command line.
 3. Run `npm run watch` from the command line.
 4. Start up a web server from the repo directory and navigate to `index.html`.
-5. Open your browser console. You should see a sorted array of numbers.
+5. Open your browser console. You should see an array of numbers with none repeated.
